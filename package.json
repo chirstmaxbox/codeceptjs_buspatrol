@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "dependencies": {
+    "@wdio/selenium-standalone-service": "^8.7.0",
+    "codeceptjs": "^3.4.1",
+    "puppeteer": "^19.8.3",
+    "webdriverio": "^6.12.1"
+  }
+}
